@@ -1,0 +1,2 @@
+run,accuracy,f1_macro,f1_weighted,precision_macro,recall_macro
+baseline,0.970333,0.970024,0.970343,0.970405,0.970046

@@ -1,0 +1,4 @@
+run,accuracy,f1_macro,f1_weighted,precision_macro,recall_macro,balanced_accuracy,cohen_kappa
+person3/final/final_sgd,0.984100,0.983973,0.984096,0.984055,0.983905,0.983905,0.982326
+person3/final/final_labelsmooth,0.983300,0.983169,0.983300,0.983282,0.983091,0.983091,0.981437
+person3/final/final_baseline,0.980700,0.980524,0.980694,0.980658,0.980527,0.980527,0.978547

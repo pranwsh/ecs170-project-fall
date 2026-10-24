@@ -1,0 +1,26 @@
+Total test samples: 12000
+Total errors: 285
+
+Per-digit accuracy (worst first):
+  2: 0.9564  (52 wrong of 1192)
+  7: 0.9721  (35 wrong of 1253)
+  5: 0.9723  (30 wrong of 1084)
+  8: 0.9735  (31 wrong of 1170)
+  3: 0.9739  (32 wrong of 1226)
+  4: 0.9752  (29 wrong of 1168)
+  9: 0.9807  (23 wrong of 1190)
+  0: 0.9831  (20 wrong of 1185)
+  1: 0.9866  (18 wrong of 1348)
+  6: 0.9873  (15 wrong of 1184)
+
+Top 10 confusions (true -> predicted):
+  2 -> 8: 16  (5.6% of all errors)
+  4 -> 9: 15  (5.3% of all errors)
+  3 -> 5: 14  (4.9% of all errors)
+  2 -> 3: 12  (4.2% of all errors)
+  5 -> 8: 11  (3.9% of all errors)
+  8 -> 5: 10  (3.5% of all errors)
+  2 -> 4: 9  (3.2% of all errors)
+  7 -> 9: 9  (3.2% of all errors)
+  8 -> 3: 8  (2.8% of all errors)
+  0 -> 5: 7  (2.5% of all errors)

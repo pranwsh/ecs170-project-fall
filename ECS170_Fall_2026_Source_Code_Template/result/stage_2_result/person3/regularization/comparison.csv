@@ -1,0 +1,4 @@
+run,accuracy,f1_macro,f1_weighted,precision_macro,recall_macro
+dropout_0.2,0.977750,0.977489,0.977743,0.977761,0.977410
+dropout_0.5,0.976583,0.976323,0.976564,0.976554,0.976188
+weight_decay_1e-4,0.975750,0.975502,0.975792,0.975469,0.975611

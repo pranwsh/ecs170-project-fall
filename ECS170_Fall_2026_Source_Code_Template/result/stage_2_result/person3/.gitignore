@@ -1,0 +1,5 @@
+# Pickled predictions are large and fully reproducible from config.json, so they
+# stay out of git. The config/metrics JSON, convergence plots, confusion matrices
+# and comparison tables are committed.
+prediction_result
+prediction_result_*

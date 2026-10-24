@@ -1,0 +1,14 @@
+{
+  "accuracy": 0.9865,
+  "balanced_accuracy": 0.9863705164526975,
+  "precision_weighted": 0.9865156858521037,
+  "recall_weighted": 0.9865,
+  "f1_weighted": 0.9865008302002533,
+  "precision_macro": 0.9865155054394336,
+  "recall_macro": 0.9863705164526975,
+  "f1_macro": 0.9864356241798171,
+  "precision_micro": 0.9865,
+  "recall_micro": 0.9865,
+  "f1_micro": 0.9865,
+  "cohen_kappa": 0.9849939699101753
+}
